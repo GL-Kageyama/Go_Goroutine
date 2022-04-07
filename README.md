@@ -54,8 +54,8 @@ func main() {
 ```
 
 ## Output Sample
-~/Go_Goroutine $ go build main.go  
-~/Go_Goroutine $ ./main  
+~ $ go build main.go  
+~ $ ./main  
   
  ~ omission ~   
   
