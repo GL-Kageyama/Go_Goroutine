@@ -1,6 +1,8 @@
 # Go Goroutine Sample
 
 ## Goroutine
+A function that uses threads to perform concurrent processing, called a goroutine.  
+By appending "go" to a function, that function is processed in concurrent.  
 
 ## Code
 ```Go
